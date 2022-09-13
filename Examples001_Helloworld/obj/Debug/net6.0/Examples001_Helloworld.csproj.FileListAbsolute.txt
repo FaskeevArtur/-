@@ -1,0 +1,15 @@
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\bin\Debug\net6.0\Examples001_Helloworld.exe
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\bin\Debug\net6.0\Examples001_Helloworld.deps.json
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\bin\Debug\net6.0\Examples001_Helloworld.runtimeconfig.json
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\bin\Debug\net6.0\Examples001_Helloworld.dll
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\bin\Debug\net6.0\Examples001_Helloworld.pdb
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.csproj.AssemblyReference.cache
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.AssemblyInfoInputs.cache
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.AssemblyInfo.cs
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.dll
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\refint\Examples001_Helloworld.dll
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.pdb
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\Examples001_Helloworld.genruntimeconfig.cache
+C:\Users\INTEL6400T\Desktop\Examples\Examples001_Helloworld\obj\Debug\net6.0\ref\Examples001_Helloworld.dll
